@@ -3,6 +3,8 @@
 
 Node.js + TypeScript API for fetching live stock details with Redis caching.
 
+**Live API**: [https://stock-portfolio-backend-xqnz.onrender.com](https://stock-portfolio-backend-xqnz.onrender.com)
+
 ## Features
 
 - Express API with CORS enabled
